@@ -15,7 +15,7 @@ This app works without issues.
 
 ## Lessons Learned:
 
-As simple as it looks, it was difficult to at times to implement multiple funcions for the same object, but I learned a lot.
+As simple as it seems, it was difficult to at times to implement multiple funcions for the same element, but I learned a lot.
 
 
 
